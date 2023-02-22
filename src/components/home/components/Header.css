@@ -1,0 +1,35 @@
+section.header{
+    background-image: url(/backgrounds/background-image-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center top;
+    background-attachment: scroll;
+    height: 60vh;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 30vh 5vw 20vh;
+    position: relative;
+    z-index: 10;
+    color: #eee5d8;
+}
+section.header .opacity{
+    position: absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    background-image: linear-gradient(to bottom right, #00000044, #FFFFFF01);
+    z-index: 11;
+}
+
+@media screen and (max-width: 600px) {
+    section.header{
+        justify-content: flex-end;
+        padding: 0 5vw 10vh;
+        height: 100vh;
+    /* height: 40vh; */
+    }
+    
+}

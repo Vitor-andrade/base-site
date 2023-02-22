@@ -1,0 +1,14 @@
+{
+    "pt-BR": {
+        "title": "Incluir & Preservar",
+        "description": "Incluir & Preservar - Ambientalismo de resultado",
+        "image": "https://fsb-assets.s3-sa-east-1.amazonaws.com/incluir-e-preservar-colorida.png",
+        "keywords": ["incluir", "preservar", "floresta", "amazônia", "ministerio do meio ambiente", "mma", "desmatamento"]
+    },
+    "en-US": {
+        "title": "Include & Preserve",
+        "description": "Include & Preserve",
+        "image": "https://fsb-assets.s3-sa-east-1.amazonaws.com/incluir-e-preservar-colorida.png",
+        "keywords": ["incluir", "preservar", "floresta", "amazônia", "ministerio do meio ambiente", "mma", "desmatamento"]
+    }
+}
